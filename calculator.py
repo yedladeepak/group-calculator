@@ -1,10 +1,10 @@
-CONTRIBUTORS = ["Dev"]
+CONTRIBUTORS = ["DEEPAK REDDY YEDLA", "Dev"]
 
 def add(a, b):
-    pass
+    return a+b
 
 def subtract(a, b):
-    pass
+    return a-b
 
 def multiply(a, b):
     pass
